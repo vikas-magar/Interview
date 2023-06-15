@@ -1,4 +1,4 @@
-package ai.vks.algoExpert;
+package ai.vks.ae;
 
 
 import java.util.Arrays;

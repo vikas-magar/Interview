@@ -1,4 +1,4 @@
-package ai.vks.algoExpert;
+package ai.vks.ae;
 
 public class TransposeOfMatrix {
     public static void main(String[] args) {
