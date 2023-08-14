@@ -9,6 +9,8 @@ target/
 .idea/compiler.xml
 .idea/vcs.xml
 .idea/libraries/
+.idea/*.xml
+.idea/misc.xml
 *.iws
 *.iml
 *.ipr
@@ -37,3 +39,4 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/.idea/
