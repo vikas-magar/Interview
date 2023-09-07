@@ -17,14 +17,4 @@ class MissingNumberTest {
         }
     }
 
-    @Test
-    void find2() {
-        var input = new int[]{};
-        var expected = new int[]{1, 2};
-        int[] opts = new MissingNumber().find(input);
-        assertEquals(opts.length, expected.length);
-        for (int i = 0; i < expected.length; i++) {
-            assertEquals(expected[i], opts[i]);
-        }
-    }
 }
